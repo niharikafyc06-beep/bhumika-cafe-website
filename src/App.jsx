@@ -9,7 +9,9 @@ import {
   Phone,
   CalendarDays,
   ChevronDown,
-  Heart
+  Heart,
+  Camera
+
 } from "lucide-react";
 
 const CAFE_NAME = "Bhumika Cafe";
@@ -213,3 +215,4 @@ function App() {
 }
 
 export default App;
+``
